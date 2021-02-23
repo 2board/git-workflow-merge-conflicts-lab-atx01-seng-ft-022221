@@ -1,3 +1,4 @@
+git checkout -t origin/doc-brown
 # Git Merge Conflicts
 
 ## Learning Goals
